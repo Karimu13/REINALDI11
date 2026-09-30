@@ -55,9 +55,10 @@ Limbah industri yang mengandung logam berat (misalnya timbal dan merkuri) dapat 
 
 ### 2.2 Rumusan Masalah
 
-1. Bagaimana mengklasifikasikan tingkat pencemaran air dari parameter kualitas air?
-2. Bagaimana menangani distribusi kelas yang sangat tidak seimbang?
-3. Seberapa baik model jaringan saraf (MLP) dibandingkan Single Perceptron?
+1.  Bagaimana mengklasifikasikan tingkat pencemaran dari parameter kualitas air?
+2.	Bagaimana menangani data kelas yang sangat tidak seimbang?
+3.	Seberapa baik jaringan saraf dibanding Single Perceptron?
+
 
 ### 2.3 Tujuan
 
