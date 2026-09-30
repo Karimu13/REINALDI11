@@ -132,9 +132,6 @@ Dataset **sangat tidak seimbang**. Menebak kelas Berat untuk seluruh sampel suda
 
 Semakin tinggi tingkat pencemaran, kekeruhan, BOD, dan kadar logam berat cenderung naik, sedangkan DO turun. Pola ini konsisten dengan teori pencemaran perairan. Kelas Bersih hanya 6 sampel, sehingga rata-ratanya kurang kuat sebagai dasar kesimpulan.
 
-### 3.5 Catatan Data
-
-Sumber dan metode pengukuran dataset belum terdokumentasi di repositori ini. Karena itu klaim tentang lokasi laut tertentu tidak dapat ditarik dari data ini. **Tim disarankan menambahkan keterangan sumber data di bagian ini.**
 
 ---
 
