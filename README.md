@@ -1,4 +1,4 @@
-# Klasifikasi Pencemaran Air Laut akibat Limbah Industri Berbasis AI.
+# Klasifikasi Pencemaran Air Laut akibat Limbah Industri Berbasis AI
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/reinaldi997/REINALDI11/blob/main/tugas_kecil_ai.ipynb)
 ![Python](https://img.shields.io/badge/Python-3.9%2B-1F6FB2)
